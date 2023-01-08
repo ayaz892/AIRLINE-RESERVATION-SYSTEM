@@ -1,0 +1,29 @@
+
+										   ** FLIGHTS SCHEDULES **
+
+				-----------------------------------------------------------------------------------------------------------------------
+				Airline No. 	    Airlines	 	 One-way/Airports          Charges/person       Time            Flights Duration
+			        -----------------------------------------------------------------------------------------------------------------------
+				100111		   Air France		   JIA -> PAR  	       	       $1200          09:00 am            21hr 45min
+					           
+				100112		   Tuifly		   JIA -> FKF                  $3550          12:00 pm            09hr 55min
+						
+				100113    	   Air One		   JIA -> ROM        	       $2450          08:00 am            05hr 20min
+						
+				100114    	   United Airlines	   JIA -> NYK                  $2570          11:00 pm            15hr 40min
+					                                   JIA -> LA                   $2570          11:00 pm            15hr 40min
+
+				100115    	   Cathay Pacific	   JIA -> HGK                  $3470          07:00 am            12hr 45min
+					
+				100116             Jets			   JIA -> TNT                  $4000          09:00 am            18hr 30min
+					
+				100117    	   Emirates		   JIA -> DBI                  $1000          01:00 pm            02hr 20min
+						
+				100118    	   Cathay Dragon	   JIA -> PEK          	       $3250          04:00 pm            24hr 45min
+
+				100119    	   Air Madrid   	   JIA -> BCA                  $2250          18:00 pm            16hr 55min
+
+			        100120    	   Korea Airlines     	   JIA -> SOEL                 $3175          22:00 pm            32hr 10min				
+
+	                       ________________________________________________________________________________________________________________________
+
